@@ -44,6 +44,6 @@ public class Compress {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         System.out.println(compress(n));
-        compressOpt(n);
+//        compressOpt(n);
     }
 }
