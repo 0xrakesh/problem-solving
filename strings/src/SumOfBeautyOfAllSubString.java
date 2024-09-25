@@ -5,7 +5,6 @@ public class SumOfBeautyOfAllSubString {
     public static int subString(String word, int diff, int index, HashMap<Character,Integer> table, int count) {
         if(index==word.length()) return count;
         table.put(word.charAt(index), table.getOrDefault(word.charAt(index),0)+1);
-        
         return count;
     }
 

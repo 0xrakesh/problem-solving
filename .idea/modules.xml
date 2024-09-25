@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Algorithms.iml" filepath="$PROJECT_DIR$/Algorithms/Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" filepath="$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greedy/Greedy.iml" filepath="$PROJECT_DIR$/Greedy/Greedy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number/Number.iml" filepath="$PROJECT_DIR$/Number/Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Path/Path.iml" filepath="$PROJECT_DIR$/Path/Path.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeTraining/PrimeTraining.iml" filepath="$PROJECT_DIR$/PrimeTraining/PrimeTraining.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern/pattern.iml" filepath="$PROJECT_DIR$/pattern/pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/problem-solving.iml" filepath="$PROJECT_DIR$/.idea/problem-solving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting/sorting.iml" filepath="$PROJECT_DIR$/sorting/sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strings/strings.iml" filepath="$PROJECT_DIR$/strings/strings.iml" />
     </modules>
   </component>
 </project>
